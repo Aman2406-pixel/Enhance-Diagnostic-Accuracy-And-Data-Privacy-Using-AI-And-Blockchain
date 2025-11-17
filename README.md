@@ -1,3 +1,4 @@
 # Enhance-Diagnostic-Accuracy-And-Data-Privacy-Using-AI-And-Blockchain
 A hybrid healthcare system that integrates Machine Learning–based diagnostic prediction with Blockchain technology to ensure secure, tamper-proof, and privacy-preserving medical data storage. This project improves diagnostic accuracy using AI models and enhances data integrity, transparency, and confidentiality through a custom blockchain network.
-![Output](AITrainedOutput.png).
+
+![Output](AITrainedOutput.png)
